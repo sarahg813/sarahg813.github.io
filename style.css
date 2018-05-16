@@ -1,0 +1,46 @@
+body {
+    font-family: Calibri;
+}
+
+#header {
+    margin-top: 20px;
+}
+h1{
+    background-color: #312E2D;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#nameInfo {
+    float: left;
+}
+img {
+    float: left;
+    margin-right: 20px;
+}
+
+#contactInfo {
+    float: right;
+}
+
+#info {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+h2 {
+    color: #312E2D;
+}
+
+li {
+    color: #7C7877;
+}
+
+span, p {
+    color: #9D9A98;
+}
+
+a {
+    color: red;
+}
